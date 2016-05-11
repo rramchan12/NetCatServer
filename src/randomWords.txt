@@ -1,0 +1,65 @@
+Timeline: Data Set & Hackathon Details released on May 2nd; Solutions (Submissions) due on May 18thby 11:59pm PST. Winners will be announced on Friday, May 20th.
+
+Background for the Seed the Cloud Data Hackathon: 
+
+Get ready to create insight through analytics. Analytics are the bedrock of our strategies – it’s the driver that helps unlock value in our systems – providing insights that lead to better outcomes.  
+
+We’re building the GE Health Cloud, a new common analytics platform across all GE Healthcare, that’ll have customizable KPIs, and new service offerings - that can help you build new analytics - or combine them with existing ones.
+
+Our focus is on next generation analytics, both predictive and prescriptive, because analytics is so fundamental to everything we do. Analytics can help you determine what’s going to happen next so you can act on it today, and determine what should you do in the future. 
+
+So now it’s your turn to be the data scientist! 
+
+Use the Health Cloud Insights platform, your know-how, and your creativity to combine analytics and seamless visualization to tell a story and mine insight from data.  Entering the competition below grants you access to Health Cloud Insights platform.
+
+What predictive and prescriptive solutions can you find?
+
+Show us by entering one, or both, of the competitions below. You may choose to enter as an individuals or with team, if you’d like to work together and share your findings:
+	
+Hackathon Competition 1: Can you predict Coronary Artery Disease?
+You are the clinical designer of a longitudinal patient study and you want to pioneer detection of Coronary Artery Disease.  Your weapon of choice?  The tried and true EKG of course!  Leverage the Coronary Artey Disease data set and analyze its historical EKG measurements to predict CAD in patients.  Use your data science know-how, the data, and your secret mix of tools to predict CAD in patients.  Then submit your predictions to compete against the rest of GEHC!
+ 
+Can you make sense of the noise and come up with a low cost CAD detection test?
+
+Hackathon Competition 2: Can you be the next Moneyball?
+You are the manager of an up and coming baseball team called the GE Tinkerers.  Its exciting times for your baseball club as you have been asked to move to the majors!  With the move you'll be given a bigger budget, an opportunity to hire new players, and the possibility to move locations.  To prepare for this shift you are redefining your entire team, club, and location.  Use historical baseball statistics to create a compelling set of proposals for your team redesign.  Lay out your thoughts and descriptive analytics in the form of a dashboard and prepare to pitch your ideas.
+ 
+Can you create the optimal baseball club?
+
+What you need:
+
+1)	Click here to get your user account set up – this is required in order for you to create a dashboard. Allow 24 hours after you sign up, to get your user account information via email.
+
+2)	Click here to access a de-classified data set to work from. Use Excel, R, Python, or any other data science tools you’d like to work through the data set.
+
+3)	When you derive new predictions you can submit them here and you’ll be able to incorporate them into your dashboards the next day.  Your end goal is to submit an annotated dashboard/visualization that showcases your submitted data science.
+Entering a Competition:
+Individuals or teams may enter a competition by registering here. Up to 1000 users will be able to participate in this event so enter now and early if you want to be part of this hackathon.
+
+More Details and Resources available to you: 
+
+For more information, visit the challenge Support Central. To orientate you to this platform, check out these how-to videos: “Creating a Dashboard,” “Creating New Widgets,” and “Customizing a Dashboard.” Have more questions, contact healthcloud.insights.staff@ge.com.
+
+Competition 1: Predicting Coronary Artery Disease
+
+Judgment Criteria: Several judges will rate your dashboard on the following criteria
+
+Criteria	Description	Points Possible
+Algorithm	Accuracy and usefulness of your algorithm.  High scoring dashboards will provide a reliable method to predict the patient’s cardiac classification.  Annotating the dashboard with textboxes can be used to convey the finer details of your solution as well.	50
+Details Displayed	Value of the data you provide to your end user.  High scoring dashboards will display meaningful, clear information that will provide useful information to the end user regarding the patient, population, and prediction.	50
+Aesthetics	Ease of data reception.  High scoring dashboards will display results that are easy to decipher and pleasing to the eye. 	50
+
+“Seed the Cloud Hacker Award”: $250 Above & Beyond Award
+Winners of the “Seed the Cloud Hacker Award” for this competition must create a dashboard that provide clear and meaningful information to the user, be visually engaging, and show the value-add for our end customer.
+
+
+Competition 2: Can you be the next Moneyball?
+
+Judgment Criteria: Several judges will rate your dashboard on the following criteria
+
+Criteria	Description	Points Possible
+Trend	Value of the trends you provide to your end user.  High scoring dashboards will display meaningful, clear information.	50
+Action-ability	High scoring dashboards will tell a story that has a clear recommendation on how to create an optimal baseball team.  Annotating the dashboard with textboxes can be used to convey the finer details of your solution as well.	50
+Aesthetics	Ease of data reception.  High scoring dashboards will display results that are easy to decipher and pleasing to the eye. 	50
+
+
